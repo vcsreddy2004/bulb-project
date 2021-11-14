@@ -1,0 +1,34 @@
+h1 {
+    text-align: center;
+    color:white;
+}
+img {
+    left:500px;
+    position:relative;
+    height:450px;
+    width:300px;
+}
+#bulbOff {
+    width:100px; 
+    left:150px; 
+    height:30px; 
+    color:white; 
+    position: relative;
+}
+#bulbOn {
+    width:100px; 
+    left:150px; 
+    height:30px; 
+    color:white; 
+    position: relative;
+}
+#bulbOff:hover {
+    cursor:pointer;
+}
+#bulbOn:hover {
+    cursor:pointer;
+}
+div {
+    position:absolute;
+    left:400px;
+}
